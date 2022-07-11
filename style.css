@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: azure;
+}
+main {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 700px;
+}
+.flex-1 {
+  background-color: orangered;
+  padding: 2em;
+}
+.flex-1 h3 {
+  color: hsl(0, 30%, 95%);
+  font-size: 15px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.flex-1 {
+  font-weight: lighter;
+  color: beige;
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+.flex-2 {
+  background-color: darkcyan;
+  padding: 2em;
+}
+.flex-2 h3 {
+  color: hsl(0, 30%, 95%);
+  font-size: 15px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.flex-2 {
+  font-weight: lighter;
+  color: beige;
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+
+.flex-3 {
+    background-color: rgba(4, 61, 61, 0.897);
+    padding: 2em;
+  }
+  .flex-3 h3 {
+    color: hsl(0, 30%, 95%);
+    font-size: 15px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+  .flex-3 {
+    font-weight: lighter;
+    color: beige;
+    font-size: 15px;
+    padding-bottom: 10px;
+  }
+  
